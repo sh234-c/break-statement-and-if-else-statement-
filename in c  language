@@ -1,0 +1,133 @@
+// #include <stdio.h>
+
+// int main(){
+//     int length=5,breadth=8;
+//     int area=length*breadth;
+//     printf("the area of rectangle is %d\n",area);
+//     return 0;
+// }
+// #include <stdio.h>
+
+// int main(){
+//     int a;
+//     printf("enter a\n");
+//     scanf("%d",&a);
+    
+//     (a<5)?printf("A is less than 5"):printf("A is not less than 5");
+//     return 0;
+// }
+#include <stdio.h>
+
+int main(){
+//     int length,breadth;
+//     printf("enter the value of length\n");
+//     scanf("%d",&length);
+//     printf("enter the value of breadth\n");
+//     scanf("%d",&breadth);
+//     printf("the area of rectangle is %d\n",length*breadth);
+//     return 0;
+// // }
+// int rating;
+// printf("enter your rating\n");
+// scanf("%d",&rating);
+// switch(rating){
+//     case 1:
+//     printf("your rating is 1\n");
+//     break;
+//     case 2:
+//     printf("your rating is 2\n");
+//     break;
+//     case 3:
+//     printf("your rating is 3\n");
+//     break;
+//     default:
+//     printf("invalid rating\n");
+// }
+// return 0;
+// }
+// int grade;
+// printf("enter your grade\n");
+// scanf("%d",&grade);
+// switch(grade){
+//     case 95:
+//     printf("your grade is A\n");
+//     break;
+//     case 75:
+//     printf("your grade is B\n");
+//     break;
+//     case 65:
+//     printf("your grade is C\n");
+//     break;
+// }
+// return 0;
+// }
+
+
+// int num1, num2, num3, num4;
+
+// printf("Enter first no.\n");
+
+// scanf("%d", &num1);
+
+// printf("Enter second no.\n");
+
+// scanf("%d", &num2);
+
+// printf("Enter third no.\n");
+
+// scanf("%d", &num3);
+
+// printf("Enter fourth no.\n");
+
+// scanf("%d", &num4);
+
+// if(num1>num2 && num1>num3 && num1>num4){
+
+// printf("The greatest no. is\n%d", num1);
+
+// }
+
+// else if(num2>num3 && num2>num4){
+
+// printf("The greatest no. is\n%d", num2);
+
+// }
+
+// else if(num3>num4){
+
+// printf("The greatest no. is\n%d", num3);
+
+// }
+
+// else{
+
+// printf("The greatest no. is\n%d", num4);
+
+// }
+
+// return 0;
+
+// // FIND THE GREATEST NUMBER IN FOUR NUMBER BY USER
+// int num1,num2,num3,num4;
+// printf("enter first number\n");
+// scanf("%d",&num1);
+// printf("enter second number\n");
+// scanf("%d",num2);
+// printf("enter third number\n");
+// scanf("%d",num3);
+// printf("enter fourth number\n");
+// scanf("%d",num4);
+// if(num1>>num2 && num1>>3 && num1>>num4){
+//     printf("the  greatest number is %d",num1);
+// }
+// else if(num2>>num3 && num2>>num4){
+//     printf("the greatest number is %d",num2);
+// }
+// else if(num3>>num4){
+//     printf("the greatest number is %d",num3);
+// }
+// else{
+//     printf("the greatest number is %d",num4);
+// }
+// return 0;
+// }
